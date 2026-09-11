@@ -1,0 +1,7 @@
+interface:
+  display_name: "Brainstorming"
+  short_description: "Shape open coding ideas into clear designs"
+  default_prompt: "Use $brainstorming to resolve the open design choices in this request before implementation."
+
+policy:
+  allow_implicit_invocation: true
