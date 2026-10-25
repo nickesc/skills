@@ -1,0 +1,7 @@
+interface:
+  display_name: "Test Judgment"
+  short_description: "Decide which tests are worth adding"
+  default_prompt: "Use $test-judgment to decide whether this change needs tests and what coverage is worth adding."
+
+policy:
+  allow_implicit_invocation: true
